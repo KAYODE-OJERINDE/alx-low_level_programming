@@ -1,9 +1,10 @@
-#!/bin/bash
-/*
- * main - print a line code using puts
+#include <stdio.h>
+/**
+ * main -Print a line code using puts
  *
  * Return: 0
 */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
