@@ -4,7 +4,7 @@
  * main - print _putchar
  * written by Kay
  * Return: 0 (Always success)
- */
+*/
 
 int main(void)
 {
