@@ -5,6 +5,7 @@
  * @s: char to check
  * Return: 0
  */
+
 int _strlen(char *s)
 {
 	int a = 0; /* start counting from 0*/
