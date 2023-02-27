@@ -5,7 +5,7 @@
  * @s - string to be printed
  */
 
-void print_rev(char *s)
+void print_rev(char *s) /* s is the target string */
 {
 	int a, b;
 
