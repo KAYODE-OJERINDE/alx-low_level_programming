@@ -3,9 +3,9 @@
 
 /**
  * _strcat - This function concatenates two strings
- * @dest - prints the first parameter
- * @src - prints the second parameter
- * Return: a Character
+ * @dest - first param
+ * @src - second param
+ * Return: char
  */
 
 char *_strcat(char *dest, char *src)
