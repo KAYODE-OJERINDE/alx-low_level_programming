@@ -3,8 +3,8 @@
 
 /**
  * _strcat - This function concatenates two strings
- * @dest - first param
- * @src - second param
+ * @dest: first param
+ * @src: second param
  * Return: char
  */
 
